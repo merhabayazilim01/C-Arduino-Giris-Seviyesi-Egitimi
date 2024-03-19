@@ -11,7 +11,7 @@ void setup()
 void loop()
 {
   /*
-	Serial.println("Merhaba !!!");
+  Serial.println("Merhaba !!!");
   delay(1000);
   int toplam = toplama(1,2);
   Serial.println(toplam);
